@@ -10,30 +10,32 @@ A make.fun entry for the [news-image-20261122](https://make.fun/bounty/news-imag
 
 A newspaper front page, drawn by `compose.py` (Pillow) from a generated
 hero photograph of a Gulf port at night. Every story was first reported
-on Sunday 22 November 2026 (checked against the morning's reporting):
+on Sunday 22 November 2026 (checked against the evening's reporting):
 
 - **New hero photo** — searchlights and smoke over a Gulf port at
   night, with a caption strip tying it to the Saturday-night strikes
   on US bases in Bahrain.
-- **Lead — Iran hits US bases in Bahrain again.** Iran fires drones
-  and missiles at two US bases on Saturday night — the fourth attack
-  on Bahrain in nine days. Air-raid sirens sound in Manama; an
-  industrial plant burns; tankers are hit off Oman.
+- **Lead — Iran hits US bases in Bahrain again.** Iran says its
+  missiles hit two US Patriot radars on Saturday night; Bahrain says
+  its defences held, with no casualties and a factory fire. Three
+  tankers are hit near Hormuz, and 14 Iranian tankers mass off Kharg
+  Island to break the US blockade.
 - **Zelensky: Crimea Bridge strikes 'fair response'.** Ukraine's
   president defends the bridge strikes as he meets Britain's Wes
   Streeting.
-- **Drones hit Russian cargo ship.** A Russia-bound freighter is
-  attacked in the Gulf of Finland; Finland tightens security.
-- **COP31 deadlocked on fossil fuels.** Climate talks in Antalya
-  stall as the fight over fossil fuels leaves the summit in deadlock.
-- **'El Chapo Isidro' arrested.** Mexico captures a cartel boss on
-  the FBI's most-wanted list; the arrest sparks deadly violence in
-  Sinaloa.
-- **Ticker:** France takes the Myanmar ICJ ruling to the UN Security
-  Council, Trump reaches Shenzhen for the Xi–Putin summit, Estonia
-  border rush before the 1 December closure, Denmark accuses Russia
-  of a plot to kill a US-Ukrainian rapper, FBI probing a hack of its
-  criminal database, Palisades fire arson conviction.
+- **Sparta II still burning off Finland.** The drone-hit Russian
+  cargo ship drifts at anchor in Finnish waters; its 16 crew are
+  evacuated as the fire rages on.
+- **COP31 collapses with no deal.** The final text — silent on fossil
+  fuels — is rejected on Sunday; the first climate summit to end
+  with no deal since 2000.
+- **'El Chapo Isidro' faces US extradition.** Eleven die in the
+  Guasave raid; the cartel boss is flown to Mexico City.
+- **Ticker:** 14 missing as a Russian drone hits a Kyiv-region block,
+  Iran tankers mass at Kharg, Kryvyi Rih double-tap kills a boy of 7
+  and a medic, Estonia border rush before the 1 December closure, FBI
+  probing a hack of its criminal database, Palisades fire arson
+  conviction.
 
 Dating notes: the Peru 6.9 quake (20 Nov) and the Kuwait Ali Al Salem
 strike (19 Nov) are deliberately excluded — they are not 22 Nov news.
