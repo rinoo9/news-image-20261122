@@ -25,19 +25,24 @@ overnight reporting, Monday morning 23 Nov WIB):
   Monday evening: Trump dares Iran to test the Hormuz blockade and
   says he may resume strikes after the New Year; Tehran claims two
   tankers hit mines near Hormuz; Houthi drones target Riyadh; Iran
-  starts rolling power cuts.
-- **Dymer toll rises to 11.** An 11th body is pulled out; 11
-  still missing, two of them children.
-- **Kremlin cries 'terror' over Sparta II.** Moscow calls the
-  drone strike terrorism; the ship is towed on to Russia, Kyiv
-  silent.
-- **COP31: blame game erupts.** Calls to sack Australia's Bowen;
-  Pacific islands despair — 90 nations sign a power pledge.
-- **Isidro heir named as violence feared.** Successor Óscar
-  Gastélum tipped as Sinaloa braces for a turf war; no
-  extradition date.
-- **Ticker:** Dymer toll 11; Trump dares Iran on Hormuz; Kremlin
-  cries terror; COP31 blame game; Isidro heir named.
+  starts rolling power cuts. Monday night: Tehran says Hormuz could
+  reopen in two hours if the US meets its terms; Bahrain says a
+  strike hit a civilian plant, two hurt; Brent $92.
+- **Dymer boy pulled alive after 14 hours.** Toll holds at 11 as
+  rescuers free a 7-year-old and a 79-year-old; Kyiv region mourns
+  15 dead.
+- **Ukraine sinks Russian warship off Libya.** Seven sea drones
+  sink the corvette Merkury at Benghazi, 2,400 km from the front;
+  cargo ship Angara also hit; a Ka-27 helicopter destroyed.
+- **COP31: EU says talks 'hijacked by oil states'.** 130 nations
+  demanded fossil-fuel text; a Saudi-led bloc refused — Bowen faces
+  sack calls in Australia.
+- **Sinaloa: soldiers attacked after arrest.** Eight cartel
+  suspects held after a patrol is shot at; arrest violence toll
+  hits 17, four of them troops.
+- **Ticker:** Ukraine sinks warship off Libya; NATO in emergency
+  talks over Poland; Trump dares Iran on Hormuz; COP31 blame game;
+  Sparta II towed home.
 
 Dating notes: the Peru 6.9 quake (20 Nov) and the Kuwait Ali Al Salem
 strike (19 Nov) are deliberately excluded — they are not 22 Nov news.
