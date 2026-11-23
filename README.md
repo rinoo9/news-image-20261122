@@ -22,17 +22,22 @@ overnight reporting, Monday morning 23 Nov WIB):
   UN action. Monday follow-up: Washington says no US forces were
   hurt; Tehran claims a drone downed over Qeshm and two tankers hit
   in Hormuz; Bahrain still demands UN action and full compensation.
-- **Dymer toll rises to 10.** Toll hits 10 as an eighth body is
-  pulled out; a 79-year-old woman is rescued alive.
-- **Sparta II: Ukraine likely behind the strike.** Finland blames
-  Kyiv for the drone hit; 16 crew safe as Murman tows the ship on
-  to Russia.
-- **COP31 ends with no deal.** Guterres 'deeply disappointed' as
-  the longest COP ever ends with no deal; COP32 in 2027.
-- **11 dead in Isidro raid.** Four soldiers and seven gunmen
-  killed; Mexico's case comes first, no extradition date set.
-- **Ticker:** Dymer toll 10; Houthi missile near Mecca; COP31 ends
-  with no deal; Sparta II towed on; Odesa grid, Moldova drone.
+  Monday evening: Trump dares Iran to test the Hormuz blockade and
+  says he may resume strikes after the New Year; Tehran claims two
+  tankers hit mines near Hormuz; Houthi drones target Riyadh; Iran
+  starts rolling power cuts.
+- **Dymer toll rises to 11.** An 11th body is pulled out; 11
+  still missing, two of them children.
+- **Kremlin cries 'terror' over Sparta II.** Moscow calls the
+  drone strike terrorism; the ship is towed on to Russia, Kyiv
+  silent.
+- **COP31: blame game erupts.** Calls to sack Australia's Bowen;
+  Pacific islands despair — 90 nations sign a power pledge.
+- **Isidro heir named as violence feared.** Successor Óscar
+  Gastélum tipped as Sinaloa braces for a turf war; no
+  extradition date.
+- **Ticker:** Dymer toll 11; Trump dares Iran on Hormuz; Kremlin
+  cries terror; COP31 blame game; Isidro heir named.
 
 Dating notes: the Peru 6.9 quake (20 Nov) and the Kuwait Ali Al Salem
 strike (19 Nov) are deliberately excluded — they are not 22 Nov news.
