@@ -11,33 +11,30 @@ A make.fun entry for the [news-image-20261122](https://make.fun/bounty/news-imag
 A newspaper front page, drawn by `compose.py` (Pillow) from a generated
 hero photograph of a Gulf port at night. Every story was first reported
 on Sunday 22 November 2026 (checked against the Sunday-evening /
-overnight reporting, early Monday 23 Nov WIB):
+overnight reporting, Monday morning 23 Nov WIB):
 
 - **New hero photo** — searchlights and smoke over a Gulf port at
   night, with a caption strip tying it to the Saturday-night strikes
   on US bases in Bahrain.
 - **Lead — Iran hits US bases in Bahrain again.** Iran says its
   missiles hit two US Patriot radars on Saturday night; Bahrain says
-  its defences held. Sunday follow-up: two hurt in the Sitra plant
-  fire, Bahrain takes Iran to the UN Security Council, 25 tankers hit
-  in a week as the blockade hits day 130.
-- **14 missing after a drone hits a Kyiv block.** A five-storey block
-  in Dymer partly collapses; 186 drones launched overnight, 161
-  downed.
-- **Sparta II towed out of Finnish waters.** Flames out after two
-  days of firefighting; a Russian tug takes the drone-hit ship as
-  crews cool its warm containers.
-- **COP31: longest summit ends in failure.** Guterres 'deeply
-  disappointed' as the Antalya Pact dies — the first major COP
-  breakdown since 2009.
-- **'El Chapo Isidro' perp-walked after the Guasave raid.** Mexico
-  parades the FBI's most-wanted boss; the US unveils narcoterrorism
-  charges.
-- **Ticker:** Kryvyi Rih toll rises to 73 hurt, 9 children; Zelensky
-  renews his call for Patriot interceptors; Bahrain appeals to the UN
-  Security Council; 25 tankers hit in a week at Hormuz; Estonia border
-  rush before the 1 December closure; FBI probing a hack of its
-  criminal database.
+  the fire hit a civilian plant, two hurt, one critical, and demands
+  UN action. Monday follow-up: Tehran blames a crashed US interceptor
+  for the Sitra fire as Qatar mediates.
+- **Boy, 7, pulled alive from the Dymer rubble.** Three bodies found,
+  ~10 still feared trapped; rescuers pull a boy, 7, alive after
+  14 hours.
+- **Sparta II leaves Finnish waters.** President Stubb confirms the
+  ship is out; restrictions lifted, no leaks, Murman tows it on.
+- **Saudi blamed as COP31 talks fail.** O'Brien: the summit was
+  'hijacked by some oil states'; 130 nations backed fossil-fuel
+  wording.
+- **'El Chapo Isidro' faces a US extradition wait.** Mexico's case
+  comes first and no extradition date is set; US intelligence aided
+  the raid.
+- **Ticker:** Kryvyi Rih: 73 hurt, 9 children; boy, 7, pulled alive
+  from Dymer rubble; Saudi blamed for COP31; Sparta II out of Finnish
+  waters; Isidro extradition waits.
 
 Dating notes: the Peru 6.9 quake (20 Nov) and the Kuwait Ali Al Salem
 strike (19 Nov) are deliberately excluded — they are not 22 Nov news.
