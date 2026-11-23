@@ -19,22 +19,20 @@ overnight reporting, Monday morning 23 Nov WIB):
 - **Lead — Iran hits US bases in Bahrain again.** Iran says its
   missiles hit two US Patriot radars on Saturday night; Bahrain says
   the fire hit a civilian plant, two hurt, one critical, and demands
-  UN action. Monday follow-up: Tehran blames a crashed US interceptor
-  for the Sitra fire as Qatar mediates.
-- **Boy, 7, pulled alive from the Dymer rubble.** Three bodies found,
-  ~10 still feared trapped; rescuers pull a boy, 7, alive after
-  14 hours.
-- **Sparta II leaves Finnish waters.** President Stubb confirms the
-  ship is out; restrictions lifted, no leaks, Murman tows it on.
-- **Saudi blamed as COP31 talks fail.** O'Brien: the summit was
-  'hijacked by some oil states'; 130 nations backed fossil-fuel
-  wording.
-- **'El Chapo Isidro' faces a US extradition wait.** Mexico's case
-  comes first and no extradition date is set; US intelligence aided
-  the raid.
-- **Ticker:** Kryvyi Rih: 73 hurt, 9 children; boy, 7, pulled alive
-  from Dymer rubble; Saudi blamed for COP31; Sparta II out of Finnish
-  waters; Isidro extradition waits.
+  UN action. Monday follow-up: Washington says no US forces were
+  hurt; Tehran claims a drone downed over Qeshm and two tankers hit
+  in Hormuz; Bahrain still demands UN action and full compensation.
+- **Dymer toll rises to 10.** Toll hits 10 as an eighth body is
+  pulled out; a 79-year-old woman is rescued alive.
+- **Sparta II: Ukraine likely behind the strike.** Finland blames
+  Kyiv for the drone hit; 16 crew safe as Murman tows the ship on
+  to Russia.
+- **COP31 ends with no deal.** Guterres 'deeply disappointed' as
+  the longest COP ever ends with no deal; COP32 in 2027.
+- **11 dead in Isidro raid.** Four soldiers and seven gunmen
+  killed; Mexico's case comes first, no extradition date set.
+- **Ticker:** Dymer toll 10; Houthi missile near Mecca; COP31 ends
+  with no deal; Sparta II towed on; Odesa grid, Moldova drone.
 
 Dating notes: the Peru 6.9 quake (20 Nov) and the Kuwait Ali Al Salem
 strike (19 Nov) are deliberately excluded — they are not 22 Nov news.
